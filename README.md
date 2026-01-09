@@ -1,6 +1,6 @@
-<img src="githubdia.gif" width="100%"/>
-
----
+<p align="center">
+  <img src="githubdia.gif" width="100%">
+</p>
 
 # Olá! 👋 
 
