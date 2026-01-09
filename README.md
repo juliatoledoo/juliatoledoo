@@ -19,6 +19,9 @@ Seja bem-vindo(a) ao meu perfil. Sou estudante de Sistemas de Informação e est
 #### 📊 Banco de Dados
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+#### 🎨 Design (UI/UX)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 ---
 
 ### 🧰 Ferramentas e Estudos
