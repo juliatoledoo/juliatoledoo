@@ -33,3 +33,4 @@ Seja bem-vindo(a) ao meu perfil. Sou estudante de Sistemas de Informação e est
 ### 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-toledo-si)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatojuliamt@gmail.com)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) **_toledinha**
