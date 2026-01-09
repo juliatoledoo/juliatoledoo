@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '0 9 * * *'  # 06h00 no Brasil (UTC-3)
     - cron: '0 21 * * *' # 18h00 no Brasil (UTC-3)
-  workflow_dispatch:      # Permite testar manualmente
+  workflow_dispatch:      # Permite testar manualmente clicando em "Run workflow"
 
 jobs:
   build:
@@ -16,8 +16,10 @@ jobs:
         run: |
           HORA=$(date +%H)
           if [ $HORA -ge 09 ] && [ $HORA -lt 21 ]; then
+            # Se for dia, garante que o link aponte para githubdia.gif
             sed -i 's/githubnoite.gif/githubdia.gif/g' README.md
           else
+            # Se for noite, troca o link para githubnoite.gif
             sed -i 's/githubdia.gif/githubnoite.gif/g' README.md
           fi
 
