@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="githubdia.gif" width="100%">
+  <img src="githubdia.gif" width="80%">
 </p>
 
 # Olá! 👋 
