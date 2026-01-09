@@ -1,0 +1,30 @@
+name: Troca de Imagem Dia e Noite
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # 06h00 no Brasil (UTC-3)
+    - cron: '0 21 * * *' # 18h00 no Brasil (UTC-3)
+  workflow_dispatch:      # Permite testar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Verificar Horario e Trocar Imagem
+        run: |
+          HORA=$(date +%H)
+          if [ $HORA -ge 09 ] && [ $HORA -lt 21 ]; then
+            sed -i 's/githubnoite.gif/githubdia.gif/g' README.md
+          else
+            sed -i 's/githubdia.gif/githubnoite.gif/g' README.md
+          fi
+
+      - name: Salvar Mudanca no README
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "action@github.com"
+          git add README.md
+          git commit -m "Auto: Atualizando imagem de topo" || exit 0
+          git push
