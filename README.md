@@ -1,3 +1,7 @@
+<img src="githubdia.gif" width="100%"/>
+
+---
+
 # Olá! 👋 
 
 Seja bem-vindo(a) ao meu perfil. Sou estudante de Sistemas de Informação e estou em transição de carreira, compartilhando minha trajetória e evolução em TI.
