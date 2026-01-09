@@ -2,9 +2,9 @@
   <img src="githubdia.gif" width="85%">
 </p>
 
-# Olá! 👋 
+# Olá! 
 
-Seja bem-vindo(a) ao meu perfil. Sou estudante de Sistemas de Informação e estou em transição de carreira, compartilhando minha trajetória e evolução em TI.
+Seja bem-vindo(a) ao meu perfil. Sou estudante de Sistemas de Informação e estou em transição de carreira, compartilhando meus aprendizados e buscando minha trajetória e evolução em TI colocando meus conhecimentos em prática e contribuindo com a empresa.
 
 ### 🎓 Conhecimentos Acadêmicos
 
