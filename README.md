@@ -38,7 +38,6 @@ Seja bem-vindo(a) ao meu perfil. Sou estudante de Sistemas de Informação e est
 <div align="center">
   <a href="https://www.linkedin.com/in/julia-toledo-si" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:contatojuliamt@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://discord.com/users/_toledinha" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
