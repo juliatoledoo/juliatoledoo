@@ -2,7 +2,7 @@
 
 Seja bem-vindo(a) ao meu perfil. Sou estudante de Sistemas de Informação e estou em transição de carreira, compartilhando minha trajetória e evolução em TI.
 
----
+<p align="left" style="background-color: #E1E4E8; height: 1px; margin: 20px 0; border: none;"></p>
 
 ### 🎓 Conhecimentos Acadêmicos
 
